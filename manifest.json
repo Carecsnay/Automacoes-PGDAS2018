@@ -1,7 +1,7 @@
 {
-  "name": "Calcula Insenção SimplesNacional",
+  "name": "Automações PGDAS2018",
   "version": "1.0",
-  "description": "Calcula o valor de insenção de acordo com a porcentagem informada no input",
+  "description": "Extensão capaz de fazer cálculo automatizados e aumentar produtividade ao emitir boletos do Simples Nacional por Bruno Benicio",
   "content_scripts": [
     {
       "matches": [
