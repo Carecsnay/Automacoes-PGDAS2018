@@ -1,4 +1,4 @@
-#  EXTENSÃO CALCULA ISENÇÃO SIMPLES NACIONAL
+#  EXTENSÃO "AUTOMACOES PGDAS2018"
  📅
 
 ## :dart: Objetivo
