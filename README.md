@@ -2,7 +2,7 @@
  📅
 
 ## :dart: Objetivo
-#### Fazer cálculo do total
+#### Fazer cálculo automatizados e aumentar produtividade ao emitir boletos do Simples Nacional
 - [✓] Insere automaticamente o valor do período de apuração (PA) informado no total da receita.
 - [✓] Calcula o valor da isenção de acordo com o valor passado pelo usuário
 - [✓] Insere automaticamente o resultado provindo do PA e porcentagem isenção informado pelo usuário
