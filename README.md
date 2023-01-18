@@ -51,7 +51,7 @@ $ Clique em 'Salvar'.
 # Na página a seguir a extensão já insere automaticamente o valor informado na receita no mercado interno.
 
 # Caso o ICMS tenha alguma isenção, um botão e um input será redenrizado na página.
-$ Clique no input ao lado esquerdo do botão 'Calc. Isenção'.
+$ Clique no input ao lado esquerdo ao botão 'Calc. Isenção'.
 
 # Agora você pode digitar a porcentagem a ser isentada no PA.
 $ Clique em 'Calc. Isenção'.
