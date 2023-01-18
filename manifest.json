@@ -1,7 +1,7 @@
 {
   "name": "Automações PGDAS2018",
   "version": "1.0",
-  "description": "Extensão capaz de fazer cálculo automatizados e aumentar produtividade ao emitir boletos do Simples Nacional por Bruno Benicio",
+  "description": "Extensão capaz de fazer cálculo automatizados para aumentar produtividade ao emitir boletos do Simples Nacional.",
   "content_scripts": [
     {
       "matches": [
