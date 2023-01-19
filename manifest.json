@@ -1,4 +1,5 @@
 {
+  "manifest_version": 3,
   "name": "Automações PGDAS2018",  
   "version": "1.0",
   "description": "Extensão capaz de fazer cálculo automatizados para aumentar produtividade ao emitir boletos do Simples Nacional.",
@@ -7,13 +8,11 @@
       "matches": [
         "https://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgdasd2018.app/declaracao/receitas"
       ],
-      "css": ["style.css"],
-      "js": ["content.js"]
+      "css": ["./src/css/style.css"],
+      "js": ["./src/js/content.js"]
     }
   ],
   "icons": {
-    "16": "logo16.png",
-    "32": "logo32.png"
-  },
-  "manifest_version": 3
+    "128": "./src/icon/icon128.png"
+  }
 }
