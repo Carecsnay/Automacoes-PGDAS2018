@@ -90,7 +90,7 @@ formICMS.addEventListener('change', function () {
             let exemptionInput = document.querySelector('.isencao-valor');
 
             // Convertendo e inserindo o valor calculado no input de isenção
-            exemptionInput.value = resultado.toLocaleString('pt-BR', { maxFractionDigits: 2 });
+            exemptionInput.value = resultado.toLocaleString('pt-BR', { minimumFractionDigits:2, maxFractionDigits: 2 });
         });
     }
 });
