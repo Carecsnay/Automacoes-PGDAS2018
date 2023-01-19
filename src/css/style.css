@@ -36,11 +36,11 @@
 /* Tirar setas do input */
 .inputCalculaIsenção::-webkit-inner-spin-button, .inputCalculaIsenção::-webkit-outer-spin-button { 
   -webkit-appearance: none; /* Edge */
-  -moz-appearance: none; /* Mozilla */
   appearance: none;
   margin: 0;
 }
 
-/* @media (1440) {
-  
-} */
+.inputCalculaIsenção {
+  -moz-appearance: textfield; /* Mozilla */
+  appearance: textfield;
+}
