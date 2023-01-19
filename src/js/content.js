@@ -51,6 +51,7 @@ formICMS.addEventListener('change', function () {
         const input = document.createElement('input');
         container.appendChild(input);
         input.classList.add("inputCalculaIsenção");
+        input.setAttribute('placeholder', 'R$');
 
         // Setando input para tipo Number
         input.setAttribute('type', 'number');
@@ -61,7 +62,6 @@ formICMS.addEventListener('change', function () {
         
         botao.innerHTML = 'Calc. Isenção';
         container.appendChild(botao);
-        botao.setAttribute('placeholder', 'R$');
         botao.classList.add("btnCalculaIsenção");
 
         // Ação do botão

@@ -29,14 +29,14 @@
   color: #555555;
   border-radius: 3px;
 
-  width: 3rem;
+  width: 5rem;
   height: 1.5rem; 
 }
 
 /* Tirar setas do input */
 .inputCalculaIsenção::-webkit-inner-spin-button, .inputCalculaIsenção::-webkit-outer-spin-button { 
   -webkit-appearance: none; /* Edge */
-  -moz-appearance: textfield; /* Mozilla */
+  -moz-appearance: none; /* Mozilla */
   appearance: none;
   margin: 0;
 }
