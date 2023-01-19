@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Automações PGDAS2018 (Version CA)",  
-  "version": "1.0 ca",
+  "version": "1.0",
   "description": "Extensão capaz de fazer cálculo automatizados para aumentar produtividade ao emitir boletos do Simples Nacional.",
   "content_scripts": [
     {
