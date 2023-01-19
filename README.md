@@ -11,6 +11,7 @@
 ## :white_check_mark: Requisitos
 - [✓] Navegador Chrome Versão 109.0.5414.75 ou superior
 - [✓] Navegador Edge Versão 108.0.1462.76 ou superior
+- [✓] Navegador 109.0 (64-bits) ou superior
 
 ### Repositórios da aplicação
 - [✓] Calcular o valor de isenção com 1 só click
